@@ -1,0 +1,8 @@
+*.gcov
+*.info
+*.gcda
+*.html
+*.css
+*.png
+*.gcno
+main_test
